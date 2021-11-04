@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BugRancher",
+			"Path": "C:\\Users\\Zach\\Documents\\Unreal Projects\\BugRancher\\Source\\BugRancher.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BugRancherEditor",
+			"Path": "C:\\Users\\Zach\\Documents\\Unreal Projects\\BugRancher\\Source\\BugRancherEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

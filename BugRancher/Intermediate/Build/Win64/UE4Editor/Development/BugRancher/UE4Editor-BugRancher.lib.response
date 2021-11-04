@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BugRancher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\BugRancherEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\BugRancher.cpp.obj"
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\BugRancherGameModeBase.cpp.obj"
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\BugRancher.init.gen.cpp.obj"
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\BugRancherGameModeBase.gen.cpp.obj"
+"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\Default.rc2.res"
+/OUT:"C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\UE4Editor-BugRancher.lib"

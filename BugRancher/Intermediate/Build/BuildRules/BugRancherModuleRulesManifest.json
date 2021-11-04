@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Zach\\Documents\\Unreal Projects\\BugRancher\\Source\\BugRancher\\BugRancher.Build.cs",
+		"C:\\Users\\Zach\\Documents\\Unreal Projects\\BugRancher\\Source\\BugRancher.Target.cs",
+		"C:\\Users\\Zach\\Documents\\Unreal Projects\\BugRancher\\Source\\BugRancherEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

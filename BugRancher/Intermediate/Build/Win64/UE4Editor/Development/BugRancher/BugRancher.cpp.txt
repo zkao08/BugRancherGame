@@ -1,0 +1,2 @@
+C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\Definitions.BugRancher.h
+C:\Users\Zach\Documents\Unreal Projects\BugRancher\Source\BugRancher\BugRancher.h

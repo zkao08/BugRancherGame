@@ -1,0 +1,7 @@
+C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Development\BugRancher\Definitions.BugRancher.h
+C:\Users\Zach\Documents\Unreal Projects\BugRancher\Source\BugRancher\BugRancherGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Zach\Documents\Unreal Projects\BugRancher\Intermediate\Build\Win64\UE4Editor\Inc\BugRancher\BugRancherGameModeBase.generated.h

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BugRancher.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4F545E5B-1D93-4687-B70F-BEAB7B5CEFDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BugRancher.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BugRancherEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6FC7A92A-4D8F-4E8A-A777-DD1A11E83368}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BugRancher">
+      <UniqueIdentifier>{508ADEED-566D-4F02-8990-740F086CE6DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BugRancher\BugRancher.Build.cs">
+      <Filter>Source\BugRancher</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BugRancher\BugRancher.cpp">
+      <Filter>Source\BugRancher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BugRancher\BugRancher.h">
+      <Filter>Source\BugRancher</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BugRancher\BugRancherGameModeBase.cpp">
+      <Filter>Source\BugRancher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BugRancher\BugRancherGameModeBase.h">
+      <Filter>Source\BugRancher</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
